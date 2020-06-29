@@ -1,0 +1,25 @@
+Team, try to complete these programs before you attend class on Monday. Complete at least 5 programs mandatorily 
+
+1) Change Even Characters in a String 
+For ex: Chennai
+Expected O/P - ChEnNaI
+
+2) Find the largest number among three numbers
+For ex: 34, 23, 65
+Expected O/P - 65
+
+3) Find a given number is a prime number or not
+For ex: 13
+Expected O/P - Yes, 13 is a prime number
+
+4) Print Fibonacci Series for a range of 8
+Example Input: 8
+Expected O/P - 0, 1, 1, 2, 3, 5, 8, 13
+
+5) Reverse a sentence's words alone
+Example Input: Welcome to Chennai City
+Expected O/P - City Chennai to Welcome
+
+6) Print the Factorial of any given input
+Example Input: 5
+Expected O/P - 5 * 4 * 3 * 2 * 1 = 120

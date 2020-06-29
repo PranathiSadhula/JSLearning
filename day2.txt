@@ -1,0 +1,21 @@
+Syntax: string.slice(start, end);
+Syntax: string.substring(start, end);
+Common Beaviour:
+If start equals end: returns an empty string
+If end is omitted: extracts characters to the end of the string
+If either argument is greater than the string's length, the string's length will be used instead.
+How Substring works in exception scenario:
+If start > end, then substring will swap those 2 arguments.
+If either argument is negative or is NaN, it is treated as if it were 0.
+How Slice works in exception scenario:
+If start > end, slice() will return the empty string. ("")
+
+
+Team, take down these assignments and try to complete it before you appear to the next class
+
+1) Print the unique values alone in a String 
+Ex: paypal 
+O/P: yl
+
+2) Check whether 2 Strings are Anagram or not
+Ex: 1) listen - silent, 2) fried - fired

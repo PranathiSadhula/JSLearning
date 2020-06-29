@@ -1,0 +1,8 @@
+write a javascript pgm to print the time in the below format with the interval of five seconds for next 30 seconds, 
+print inside a class called Timer with two method start and stop
+
+output format : hh:mm:ss
+
+		21:52:25
+		21:52:30
+		21:52:35
