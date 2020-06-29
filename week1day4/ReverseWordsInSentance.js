@@ -8,3 +8,7 @@ for(let i = wordsArray.length-1; i >= 0; i--){
 }
 console.log(revSentence);
 
+//hw workout by sam
+console.log(wordsArray.reverse.join(" "));
+
+
